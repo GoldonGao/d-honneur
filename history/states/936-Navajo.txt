@@ -1,0 +1,22 @@
+
+state={
+	id=936
+	name="STATE_936"
+	manpower = 100233
+	
+	state_category = town
+
+	history={
+		owner = NVJ
+		add_core_of = NVJ
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		10645 10573 6897 7821
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 822
+	name = "STATE_822" #Chukotka
+
+	history = {
+		owner = RUS
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = RUS
+
+	}
+
+	provinces = {
+		4744 5264 13062
+	}
+	manpower = 31182
+	buildings_max_level_factor = 1
+	state_category = "pastoral"
+
+	local_supplies = 0.0 
+}

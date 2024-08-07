@@ -1,0 +1,100 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "ENG"
+		default = yes
+
+		"ENG"={
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = authoritarian
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"FPR"={
+			history = "FPR_GATHERING_STORM_DESC"
+			ideology = socialist
+			ideas = {
+				deadlocked_government
+				birthplace_revolution
+				four_year_plan
+				spirit_of_the_workers
+			}
+			focuses = {
+			}
+		}
+		"RUS"={
+			history = "RUS_GATHERING_STORM_DESC"
+			ideology = conservative
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"ROC"={
+			history = "ROC_GATHERING_STORM_DESC"
+			ideology = liberal
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"JAP"={
+			history = "JAP_GATHERING_STORM_DESC"
+			ideology = autocratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"OTO"={
+			history = "OTO_GATHERING_STORM_DESC"
+			ideology = authoritarian
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"PRE"={
+			history = "PRE_GATHERING_STORM_DESC"
+			ideology = conservative
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"AUS"={
+			history = "AUS_GATHERING_STORM_DESC"
+			ideology = authoritarian
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"FRA"={
+			minor = yes
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = autocratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"---"={
+			minor = yes
+			history = "OTHER_DEFAULT_DESC"
+		}
+
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

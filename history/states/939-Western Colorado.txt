@@ -1,0 +1,22 @@
+
+state={
+	id=939
+	name="STATE_939"
+	manpower = 20000
+	
+	state_category = rural
+
+	history={
+		owner = UTA
+		add_core_of = UTA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		7999 9792 7684 868 1658 6887 3869 10535 12561 
+	}
+
+	local_supplies=0.0 
+}

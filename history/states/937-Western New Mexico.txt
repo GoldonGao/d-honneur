@@ -1,0 +1,22 @@
+
+state={
+	id=937
+	name="STATE_937"
+	manpower = 89234
+	
+	state_category = rural
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		5044 10914 1972 12552
+	}
+
+	local_supplies=0.0 
+}

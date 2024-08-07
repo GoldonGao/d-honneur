@@ -1,0 +1,23 @@
+
+state={
+	id=949
+	name="STATE_949"
+	manpower = 50000
+	
+	state_category = rural
+
+	history={
+		owner = TST
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces={
+		1993 11012 3109 10948 
+	}
+
+	local_supplies=0.0 
+}
