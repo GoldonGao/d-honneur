@@ -398,3 +398,11 @@
  LIB:0 "Liberia"
  LIB_DEF:0 "Liberia"
  LIB_ADJ:0 "Liberian"
+
+ AST:0 "Australian National State"
+ AST_DEF:0 "the Australia National State"
+ AST_ADJ:0 "Australian"
+
+ NZL:0 "New Zealand"
+ NZL_DEF:0 "New Zealand"
+ NZL_ADJ:0 "New Zealand"
