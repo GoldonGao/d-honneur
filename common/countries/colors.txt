@@ -370,3 +370,31 @@ KOK = {
 	color = rgb { 0 76 153 }
 	color_ui = rgb { 0 76 153 }
 }
+NGA = {
+    color = rgb{ 220 13 42 }
+    color_ui = rgb{ 220 13 42 }
+}
+CMR = {
+    color = rgb{ 235 14 44 }
+    color_ui = rgb{ 235 14 44 }
+}
+COG = {
+    color = rgb{ 241 14 45 }
+    color_ui = rgb{ 241 14 45 }
+}
+KEN = {
+    color = rgb{ 219 13 41 }
+    color_ui = rgb{ 219 13 41 }
+}
+ZAM= {
+    color = rgb{ 224 13 42 }
+    color_ui = rgb{ 224 13 42 }
+}
+MAD = {
+    color = rgb{ 230 13 43 }
+    color_ui = rgb{ 230 13 43 }
+}
+LIB = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}

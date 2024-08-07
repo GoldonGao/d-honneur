@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = TST
+		owner = CMR
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
