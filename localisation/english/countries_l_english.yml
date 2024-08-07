@@ -326,3 +326,19 @@
  TIB:0 "Kingdom of Tibet"
  TIB_DEF:0 "the Kingdom of Tibet"
  TIB_ADJ:0 "Tibetan"
+
+ SCC:0 "Szechwan Clique"
+ SCC_DEF:0 "the Szechwan Clique"
+ SCC_ADJ:0 "Szechwan"
+
+ HSK:0 "Hsikang Clique"
+ HSK_DEF:0 "the Hsikang Clique"
+ HSK_ADJ:0 "Szechwan"
+
+ GXC:0 "Kwangsi Clique"
+ GXC_DEF:0 "the Kwangsi Clique"
+ GXC_ADJ:0 "Kwangsi"
+
+ YUN:0 "Yunnan Clique"
+ YUN_DEF:0 "Yunnan Clique"
+ YUN_ADJ:0 "Yunnanese"

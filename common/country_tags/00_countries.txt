@@ -81,6 +81,9 @@ SHX = "countries/_asian.txt"
 XSM = "countries/_asian.txt"
 SIK = "countries/_asian.txt"
 TIB = "countries/_asian.txt"
-
+GXC = "countries/_asian.txt"
+SCC = "countries/_asian.txt"
+HSK = "countries/_asian.txt"
+YUN = "countries/_asian.txt"
 
 

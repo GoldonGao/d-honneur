@@ -326,3 +326,19 @@ TIB = {
 	color = rgb { 168 166 167 }
 	color_ui = rgb { 177 207 205 }
 }
+GXC = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 71 113 97 }
+}
+SCC = {
+	color = rgb { 181 133 52 }
+	color_ui = rgb { 181 133 52 }
+}
+HSK = {
+	color = rgb { 211 174 61 }
+	color_ui = rgb { 211 174 61 }
+}
+YUN = {
+	color = rgb { 143 20 20 }
+	color_ui = rgb { 143 40 40 }
+}
