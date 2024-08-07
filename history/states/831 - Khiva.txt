@@ -8,6 +8,10 @@ state = {
 		victory_points = {
 			12465 1
 		}
+		victory_points = {
+			1614 1
+		}
+		
 		owner = KHI
 		buildings = {
 			infrastructure = 2
@@ -20,7 +24,7 @@ state = {
 	}
 
 	provinces = {
-		 10395 10435 12324 12454 12465
+		 10395 12324 12465 1576 1614 
 	}
 	
 	manpower = 258430
