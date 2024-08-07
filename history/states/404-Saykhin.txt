@@ -3,16 +3,15 @@ state = {
 	name = "STATE_404" # Kyzyl Orda
 
 	history = {
-		owner = TST
+		owner = KOK
 		victory_points = {
 			7597 1
 		}
-		add_core_of = TST
+		add_core_of = KOK
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = TST
 
 	}
 

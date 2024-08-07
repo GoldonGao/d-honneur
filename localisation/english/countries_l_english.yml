@@ -358,3 +358,15 @@
  IND:0 "Republic of India"
  IND_DEF:0 "the Republic of India"
  IND_ADJ:0 "Indian"
+
+ BUK:0 "Bukara"
+ BUK_DEF:0 "the Khanate of Bukhara"
+ BUK_ADJ:0 "Bukaran"
+
+ KHI:0 "Khiva"
+ KHI_DEF:0 "the Khanate of Khiva"
+ KHI_ADJ:0 "Khivan"
+
+ KOK:0 "Kokand"
+ KOK_DEF:0 "the Khanate of Kokand"
+ KOK_ADJ:0 "Kokand"

@@ -90,3 +90,8 @@ BHU = "countries/_asian.txt"
 NEP = "countries/_asian.txt"
 IND = "countries/_asian.txt"
 
+BUK = "countries/_asian.txt"
+KHI = "countries/_asian.txt"
+KOK = "countries/_asian.txt"
+
+
