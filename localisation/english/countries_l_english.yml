@@ -354,3 +354,47 @@
  NEP:0 "Nepal"
  NEP_DEF:0 "Nepal"
  NEP_ADJ:0 "Nepali"
+
+ IND:0 "Republic of India"
+ IND_DEF:0 "the Republic of India"
+ IND_ADJ:0 "Indian"
+
+ BUK:0 "Bukara"
+ BUK_DEF:0 "the Khanate of Bukhara"
+ BUK_ADJ:0 "Bukaran"
+
+ KHI:0 "Khiva"
+ KHI_DEF:0 "the Khanate of Khiva"
+ KHI_ADJ:0 "Khivan"
+
+ KOK:0 "Kokand"
+ KOK_DEF:0 "the Khanate of Kokand"
+ KOK_ADJ:0 "Kokand"
+
+ NGA:0 "West Africa Settlements"
+ NGA:0 "the West Africa Settlements"
+ NGA:0 "West African"
+
+ COG:0 "Congo Protectorate"
+ COG:0 "the Congo Protectorate"
+ COG:0 "Congolese"
+
+ CMR:0 "Kamerun Colony"
+ CMR_DEF:0 "the Kamerun Colony"
+ CMR_ADJ:0 "Kamerunian"
+
+ KEN:0 "East Africa Protectorate"
+ KEN_DEF:0 "the East Africa Protectorate"
+ KEN_ADJ:0 "East African"
+
+ ZAM:0 "Central Africa Protectorate"
+ ZAM_DEF:0 "the Centarl Africa Protectorate"
+ ZAM_ADJ:0 "Central Africa"
+
+ MAD:0 "Madagascar Protectorate"
+ MAD_DEF:0 "the Madagascar Protectorate"
+ MAD_ADJ:0 "Malagasy"
+
+ LIB:0 "Liberia"
+ LIB_DEF:0 "Liberia"
+ LIB_ADJ:0 "Liberian"

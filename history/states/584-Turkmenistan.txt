@@ -4,7 +4,7 @@ state = {
 
 	history = {
 	
-		owner = TST
+		owner = KHI
 	
 		buildings = {
 			infrastructure = 1
@@ -12,8 +12,7 @@ state = {
 
 		}
 		
-		add_core_of = TST
-		add_core_of = TMS
+		add_core_of = KHI
 
 	}
 

@@ -4,7 +4,6 @@ state = {
 
 	history = {
 	
-		owner = TST
 		
 		victory_points = {
 			1493 1
@@ -15,9 +14,7 @@ state = {
 			industrial_complex = 1
 
 		}
-		
-		add_core_of = TST
-		add_core_of = TMS
+		owner = KHI
 		add_core_of = KHI
 
 	}

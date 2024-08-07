@@ -5,7 +5,7 @@ state={
 	state_category = pastoral 
 
 	history={
-		owner = TST
+		owner = NGA
 		add_core_of = NGA
 		buildings = {
 			infrastructure = 2
@@ -13,7 +13,7 @@ state={
 	}
 
 	provinces={
-		1992 4889 7978 8034 10831 
+		1992 4889 8034 10831 
 	}
 	
 	buildings_max_level_factor=1.000

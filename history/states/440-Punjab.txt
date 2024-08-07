@@ -10,11 +10,11 @@ state={
 		victory_points = {
 			10887 5
 		}
-		owner = TST
+		owner = IND
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
-		add_core_of = TST
+		add_core_of = IND
 	}
 
 	provinces={
