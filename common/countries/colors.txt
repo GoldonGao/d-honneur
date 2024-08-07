@@ -342,3 +342,15 @@ YUN = {
 	color = rgb { 143 20 20 }
 	color_ui = rgb { 143 40 40 }
 }
+AFG = {
+	color = rgb { 64 160 167 }
+	color_ui = rgb { 83 208 217 }
+}
+BHU = {
+	color = rgb { 172 122 88 }
+	color_ui = rgb { 172 122 88 }
+}
+NEP = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}

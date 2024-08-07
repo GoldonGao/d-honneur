@@ -342,3 +342,15 @@
  YUN:0 "Yunnan Clique"
  YUN_DEF:0 "Yunnan Clique"
  YUN_ADJ:0 "Yunnanese"
+
+ AFG:0 "Kingdom of Afghanistan"
+ AFG_DEF:0 "the Kingdom of Afghanistan"
+ AFG_ADJ:0 "Afghan"
+
+ BHU:0 "Bhutan"
+ BHU_DEF:0 "Bhutan"
+ BHU_ADJ:0 "Bhutanese"
+
+ NEP:0 "Nepal"
+ NEP_DEF:0 "Nepal"
+ NEP_ADJ:0 "Nepali"

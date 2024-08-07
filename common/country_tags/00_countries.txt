@@ -85,5 +85,7 @@ GXC = "countries/_asian.txt"
 SCC = "countries/_asian.txt"
 HSK = "countries/_asian.txt"
 YUN = "countries/_asian.txt"
-
+AFG = "countries/_asian.txt"
+BHU = "countries/_asian.txt"
+NEP = "countries/_asian.txt"
 
