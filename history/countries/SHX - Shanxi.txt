@@ -1,0 +1,26 @@
+﻿capital = 617
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	mass_assault = 1
+	fleet_in_being = 1
+	basic_train = 1
+}
+
+set_politics = {
+	ruling_party = autocratic
+	elections_allowed = no
+}
+
+set_popularities = {
+	autocratic = 100
+}
+
+recruit_character = SHX_Yan_Xishan
+set_cosmetic_tag = SHX_EOC
+
+set_stability = 0.6
+set_war_support = 0.4
+set_research_slots = 2
