@@ -7,7 +7,6 @@ state={
 	history={
 		owner = SIC
 		add_core_of = SIC
-		add_core_of = ITA
 	}
 	manpower=900000
 	buildings_max_level_factor=1.000

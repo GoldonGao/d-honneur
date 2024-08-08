@@ -6,7 +6,8 @@ state={
 	}
 
 	history={
-		owner = TST
+		owner = BAN
+		add_core_of = BAN
 		buildings = {
 			infrastructure = 2
 

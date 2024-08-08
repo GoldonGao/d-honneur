@@ -367,7 +367,7 @@
  KHI_DEF:0 "the Khanate of Khiva"
  KHI_ADJ:0 "Khivan"
 
- KOK:0 "Kokand"
+ KOK:0 "Khanate of Kokand"
  KOK_DEF:0 "the Khanate of Kokand"
  KOK_ADJ:0 "Kokand"
 
@@ -387,7 +387,7 @@
  KEN_DEF:0 "the East Africa Protectorate"
  KEN_ADJ:0 "East African"
 
- ZAM:0 "Central Africa Protectorate"
+ ZAM:0 "Central Africa"
  ZAM_DEF:0 "the Centarl Africa Protectorate"
  ZAM_ADJ:0 "Central Africa"
 
@@ -462,3 +462,15 @@
  INC:0 "Indochinese Union"
  INC_DEF:0 "the Indochinese Union"
  INC_ADJ:0 "Indochina"
+
+ SIA:0 "Kingdom of Siam"
+ SIA_DEF:0 "the Kingdom of Siam"
+ SIA_ADJ:0 "Siamese"
+
+ BRM:0 "Republic Burma"
+ BRM_DEF:0 "the Republic of Burma"
+ BRM_ADJ:0 "Burmese"
+
+ BAN:0 "State of Bengal"
+ BAN_DEF:0 "the State of Bengal"
+ BAN_ADJ:0 "Bengali"
