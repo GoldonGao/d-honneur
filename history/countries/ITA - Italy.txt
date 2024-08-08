@@ -1,14 +1,14 @@
 capital = 2
 
 set_popularities = {
-	leninist = 4
-	socialist = 17
-	progressive = 11
+	leninist = 0
+	socialist = 18
+	progressive = 12
 	liberal = 14
 	conservative = 30
 	authoritarian = 0
 	autocratic = 0
-	fascism = 24
+	fascism = 26
 }
 
 set_politics = {
