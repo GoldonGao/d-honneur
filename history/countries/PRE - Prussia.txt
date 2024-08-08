@@ -1,12 +1,19 @@
 capital = 64
 
 set_popularities = {
-	conservative = 100
+	leninist = 3
+	socialist = 6
+	progressive = 11
+	liberal = 13
+	conservative = 31
+	authoritarian = 12
+	autocratic = 0
+	fascism = 24
 }
 
 set_politics = {
 	ruling_party = conservative
-	elections_allowed = no
+	elections_allowed = yes
 }
 
 set_technology = {
