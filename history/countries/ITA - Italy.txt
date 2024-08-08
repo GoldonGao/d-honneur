@@ -1,0 +1,49 @@
+capital = 2
+
+set_popularities = {
+	leninist = 4
+	socialist = 17
+	progressive = 11
+	liberal = 14
+	conservative = 30
+	authoritarian = 0
+	autocratic = 0
+	fascism = 24
+}
+
+set_politics = {
+	ruling_party = conservative
+	elections_allowed = yes
+}
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	tech_trucks = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	basic_train = 1
+	trench_warfare = 1
+	fleet_in_being = 1
+	electronic_mechanical_engineering = 1
+	radio = 1
+	radio_detection = 1
+	fuel_silos = 1
+	fuel_refining = 1
+}
+
+recruit_character = PRE_Franz_Von_Papen
+
+set_convoys = 100
+set_research_slots = 3
+starting_train_buffer = 2
+set_stability = 0.5
+set_war_support = 0.4
+add_command_power = 10
+
+add_ideas = {
+}
