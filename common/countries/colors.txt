@@ -418,3 +418,19 @@ SAU = {
 	color = rgb { 103 156 87 }
 	color_ui = rgb { 103 156 87 }
 }
+LBA = {
+	color = rgb { 168 44 33 }
+	color_ui = rgb { 168 44 33 }
+}
+SYY = {
+	color = rgb { 119 114 91 }
+	color_ui = rgb { 119 114 91 }
+}
+EGY = {
+	color = rgb { 230 230 70 }
+	color_ui = rgb { 230 230 70 }
+}
+DAR = {
+	color = rgb { 145 133 100 }
+	color_ui = rgb { 145 133 100 }
+}

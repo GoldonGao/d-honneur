@@ -103,6 +103,10 @@ KEN = "countries/_african.txt"
 ZAM = "countries/_african.txt"
 MAD = "countries/_african.txt"
 LIB = "countries/_african.txt"
+LBA = "countries/_african.txt"
+SYY = "countries/_african.txt"
+EGY = "countries/_african.txt"
+DAR = "countries/_african.txt"
 
 
 

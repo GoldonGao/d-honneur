@@ -1,0 +1,24 @@
+
+state={
+	id=952
+	name="STATE_952"
+	manpower = 15000
+
+
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = SYY
+		add_core_of = SYY
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		1994 4191 1057 10104 10754 1060 1140
+	}
+
+	local_supplies=0.0 
+}

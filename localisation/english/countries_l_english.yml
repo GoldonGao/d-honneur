@@ -418,3 +418,19 @@
  SAU:0 "Nejd and Hasa"
  SAU_ADJ:0 "the Emirate of Nejd and Hasa"
  SAU_DEF:0 "Nejd"
+
+ LBA:0 "Vilayet of Tripolitania"
+ LBA_ADJ:0 "the Vilayet of Tripolitania"
+ LBA_DEF:0 "Tripolitanian"
+
+ SYY:0 "Senusiyya"
+ SYY_DEF:0 "the Senussi Order"
+ SYY_ADJ:0 "Senussian"
+
+ EGY:0 "Kingdom of Egypt"
+ EGY_DEF:0 "the Kingdom of Egypt"
+ EGY_ADJ:0 "Egyptian"
+
+ DAR:0 "Darfur"
+ DAR_DEF:0 "the Sultanate of Darfur"
+ DAR_ADJ:0 "Darfur"

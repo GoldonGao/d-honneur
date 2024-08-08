@@ -7,15 +7,15 @@ state={
 	
 	
 	history={
-		owner = OTO
+		owner = SYY
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = OTO
+		add_core_of = SYY
 	}
 	
 	provinces={
-		4200 7076 7136 8069 13073 
+		4200 7076 8069 
 	}
 
 	local_supplies=0.0 

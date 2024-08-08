@@ -8,17 +8,17 @@ state={
 	impassable = yes
 
 	history={
-		owner = TST
+		owner = SYY
 		buildings = {
 			infrastructure = 0
 		}
 
-		add_core_of = TST
+		add_core_of = SYY
 
 	}
 
 	provinces={
-		1143 2064 7216 10127 10869 10907 12099 12733 12764 12816 
+		10907 12733 12764
 	}
 
 	local_supplies=0.0 

@@ -7,7 +7,7 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = OTO
+		owner = LBA
 		
 		victory_points = {
 			1130 5 
@@ -19,11 +19,11 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = OTO
+		add_core_of = LBA
 	}
 
 	provinces={
-		1130 1204 4136 4151 7082 9992 10120 12094 
+		1130 1204 4136 4151 7082 9992 12094 4063 7139
 	}
 
 	local_supplies=4.0 
