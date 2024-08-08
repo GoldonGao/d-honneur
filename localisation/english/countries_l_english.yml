@@ -36,12 +36,12 @@
  ORE_DEF:0 "the Oregon Territory"
  ORE_DEF:0 "Oregon"
 
- NVJ:0 "Navajo"
+ NVJ:0 "Navajo Nation"
  NVJ_DEF:0 "the Navajo Nation"
  NVJ_ADJ:0 "Navajo"
 
- UTA:0 "Mormon Republic"
- UTA_DEF:0 "the Mormon Republic"
+ UTA:0 "State of Deseret"
+ UTA_DEF:0 "the State of Deseret"
  UTA_ADJ:0 "Mormon"
 
  MEX:0 "Second Mexican Empire"
@@ -104,7 +104,7 @@
  FIN_DEF:0 "the Kingdom of Finland"
  FIN_ADJ:0 "Finnish"
 
- HOL:0 "Netherlands"
+ HOL:0 "Kingdom of the Netherlands"
  HOL_DEF:0 "The Kingdom of the Netherlands"
  HOL_ADJ:0 "Dutch"
 
@@ -164,8 +164,8 @@
  MNT_DEF:0 "Montenegro"
  MNT_ADJ:0 "Montenegrin"
 
- HUN:0 "Hungarian Council Republic"
- HUN_DEF:0 "the Hungarian Council Republic"
+ HUN:0 "Hungarian Socialist Republic"
+ HUN_DEF:0 "the Hungarian Socialist Republic"
  HUN_ADJ:0 "Hungarian"
 
  ALB:0 "Albania"
@@ -340,20 +340,20 @@
  YUN_DEF:0 "Yunnan Clique"
  YUN_ADJ:0 "Yunnanese"
 
- AFG:0 "Kingdom of Afghanistan"
- AFG_DEF:0 "the Kingdom of Afghanistan"
+ AFG:0 "Emirate of Afghanistan"
+ AFG_DEF:0 "the Emirate of Afghanistan"
  AFG_ADJ:0 "Afghan"
 
  BHU:0 "Bhutan"
  BHU_DEF:0 "Bhutan"
  BHU_ADJ:0 "Bhutanese"
 
- NEP:0 "Nepal"
- NEP_DEF:0 "Nepal"
+ NEP:0 "Kingdom of Nepal"
+ NEP_DEF:0 "the Kingdom of Nepal"
  NEP_ADJ:0 "Nepali"
 
- IND:0 "Republic of India"
- IND_DEF:0 "the Republic of India"
+ IND:0 "Bharat Confederation"
+ IND_DEF:0 "the Bharat Confederation"
  IND_ADJ:0 "Indian"
 
  BUK:0 "Bukara"
@@ -424,8 +424,8 @@
  SYY_DEF:0 "the Senussi Order"
  SYY_ADJ:0 "Senussian"
 
- EGY:0 "Kingdom of Egypt"
- EGY_DEF:0 "the Kingdom of Egypt"
+ EGY:0 "Khedivate of Egypt"
+ EGY_DEF:0 "the Khedivate of Egypt"
  EGY_ADJ:0 "Egyptian"
 
  DAR:0 "Darfur"
@@ -464,7 +464,7 @@
  SIA_DEF:0 "the Kingdom of Siam"
  SIA_ADJ:0 "Siamese"
 
- BRM:0 "Republic Burma"
+ BRM:0 "Republic of Burma"
  BRM_DEF:0 "the Republic of Burma"
  BRM_ADJ:0 "Burmese"
 
