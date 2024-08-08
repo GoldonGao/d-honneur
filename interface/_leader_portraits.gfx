@@ -1,0 +1,113 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_eng_george_v"
+		texturefile = "gfx/leaders/ENG/portrait_ENG_George_V.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_eng_oswalt_mosley"
+		texturefile = "gfx/leaders/ENG/portrait_ENG_Oswalt_Mosley.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_eng_phillip_snowden"
+		texturefile = "gfx/leaders/ENG/portrait_ENG_Philip_Snowden.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_eng_clement_attlee"
+		texturefile = "gfx/leaders/ENG/portrait_ENG_Clement_Attlee.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_eng_herbert_samuel"
+		texturefile = "gfx/leaders/ENG/portrait_ENG_Herbert_Samuel.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_eng_sylvia_pankhurst"
+		texturefile = "gfx/leaders/ENG/portrait_ENG_Sylvia_Pankhurst.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_eng_stanley_baldwin"
+		texturefile = "gfx/leaders/ENG/portrait_ENG_Stanley_Baldwin.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_bay_rupprecht"
+		texturefile = "gfx/leaders/BAY/portrait_BAY_Rupprecht.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_can_lord_tweedsmuir"
+		texturefile = "gfx/leaders/CAN/portrait_CAN_Lord_Tweedsmuir.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_fpr_albert_sarraut"
+		texturefile = "gfx/leaders/FPR/portrait_FPR_Albert_Sarraut.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_fpr_camille_chautemps"
+		texturefile = "gfx/leaders/FPR/portrait_FPR_Camille_Chautemps.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_fpr_marcel_cachin"
+		texturefile = "gfx/leaders/FPR/portrait_FPR_Marcel_Cachin.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_fpr_leon_blum"
+		texturefile = "gfx/leaders/FPR/portrait_FPR_Leon_Blum.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_fpr_pierre_etienne"
+		texturefile = "gfx/leaders/FPR/portrait_FPR_Pierre_Etienne_Flandin.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_fra_philippe_petain"
+		texturefile = "gfx/leaders/FRA/portrait_FRA_Philippe_Petain.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_rus_alexander_kerensky"
+		texturefile = "gfx/leaders/RUS/portrait_RUS_Alexander_Kerensky.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_spa_alfonso_xiii"
+		texturefile = "gfx/leaders/SPA/portrait_SPA_Alfonso_XIII.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_oto_abdulmejid_ii"
+		texturefile = "gfx/leaders/OTO/portrait_OTO_Abdulmejid_II.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_aus_karl_i"
+		texturefile = "gfx/leaders/AUS/portrait_AUS_Karl_I.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_pre_franz_von_papen"
+		texturefile = "gfx/leaders/PRE/portrait_PRE_Franz_von_Papen.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_jap_hirohito"
+		texturefile = "gfx/leaders/JAP/portrait_JAP_Hirohito.png"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_roc_sun_yat_sen"
+		texturefile = "gfx/leaders/ROC/portrait_ROC_Sun_Yat_sen.png"
+	}
+	
+}

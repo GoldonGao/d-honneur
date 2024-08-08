@@ -1,0 +1,14 @@
+characters = {
+    PRE_Franz_Von_Papen = {
+        name = "Franz von Papen"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_pre_franz_von_papen"
+            }
+        }
+        country_leader = {
+            ideology = social_conservatism
+            expire = "1969.5.2"
+        }
+    }
+}

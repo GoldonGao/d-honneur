@@ -1,0 +1,62 @@
+characters = {
+    FPR_Albert_Sarraut = {
+        name = "Albert Sarraut"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_fpr_albert_sarraut"
+            }
+        }
+        country_leader = {
+            ideology = market_liberalism
+            expire = "1960.11.22"
+        }
+    }
+    FPR_Camille_Chautemps = {
+        name = "Camille Chautemps"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_fpr_camille_chautemps"
+            }
+        }
+        country_leader = {
+            ideology = revolutionary_socialism
+            expire = "1963.7.1"
+        }
+    }
+    FPR_Marcel_Cachin = {
+        name = "Marcel Cachin"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_fpr_marcel_cachin"
+            }
+        }
+        country_leader = {
+            ideology = jacobinism
+            expire = "1958.2.12"
+        }
+    }
+    FPR_Leon_Blum = {
+        name = "André Léon Blum"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_fpr_leon_blum"
+            }
+        }
+        country_leader = {
+            ideology = social_democracy
+            expire = "1950.3.30"
+        }
+    }
+    FPR_Pierre_Etienne = {
+        name = "Pierre-Étienne Flandin"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_fpr_pierre_etienne"
+            }
+        }
+        country_leader = {
+            ideology = social_conservatism
+            expire = "1958.6.13"
+        }
+    }
+}

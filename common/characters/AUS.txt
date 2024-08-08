@@ -1,0 +1,14 @@
+characters = {
+    AUS_Karl_I = {
+        name = "Karl I"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_aus_karl_i"
+            }
+        }
+        country_leader = {
+            ideology = authoritarian_democracy
+            expire = "1938.5.12"
+        }
+    }
+}

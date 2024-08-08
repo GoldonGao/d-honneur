@@ -1,0 +1,15 @@
+characters = {
+    FRA_Philippe_Petain = {
+        name = "Philippe Pétain"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_fra_philippe_petain"
+            }
+        }
+        country_leader = {
+            ideology = paternal_autocracy
+            expire = "1951.7.23"
+            id = -1
+        }
+    }
+}

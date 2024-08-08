@@ -1,0 +1,14 @@
+characters = {
+    BAY_Rupprecht = {
+        name = "King Rupprecht"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_bay_rupprecht"
+            }
+        }
+        country_leader = {
+            ideology = authoritarian_democracy
+            expire = "1955.8.20"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+characters = {
+    ENG_George_V = {
+        name = "King George V"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_eng_george_v"
+            }
+        }
+        country_leader = {
+            ideology = authoritarian_democracy
+            expire = "1936.1.20"
+        }
+    }
+
+    ENG_Oswalt_Mosley = {
+        name = "Oswalt Mosley"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_eng_oswalt_mosley"
+            }
+        }
+        country_leader = {
+            ideology = british_fascism
+            expire = "1980.12.03"
+        }
+    }
+
+    ENG_Philip_Snowden = {
+        name = "Philip Snowden"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_eng_phillip_snowden"
+            }
+        }
+        country_leader = {
+            ideology = leninism
+            expire = "1937.5.15"
+        }
+    }
+
+    ENG_Sylvia_Pankhurst = {
+        name = "Sylvia Pankhurst"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_eng_sylvia_pankhurst"
+            }
+        }
+        country_leader = {
+            ideology = democratic_socialism
+            expire = "1960.9.27"
+        }
+    }
+
+    ENG_Clement_Attlee = {
+        name = "Clement Attlee"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_eng_clement_attlee"
+            }
+        }
+        country_leader = {
+            ideology = social_democracy
+            expire = "1967.10.8"
+        }
+    }
+
+    ENG_Herbert_Samuel = {
+        name = "Herbert Samuel"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_eng_herbert_samuel"
+            }
+        }
+        country_leader = {
+            ideology = market_liberalism
+            expire = "1963.2.5"
+        }
+    }
+
+    ENG_Stanley_Baldwin = {
+        name = "Stanley Baldwin"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_eng_stanley_baldwin"
+            }
+        }
+        country_leader = {
+            ideology = social_conservatism
+            expire = "1947.12.11"
+        }
+    }
+}

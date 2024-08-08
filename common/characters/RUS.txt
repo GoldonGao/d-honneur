@@ -1,0 +1,15 @@
+characters = {
+    RUS_Alexander_Kerensky = {
+        name = "Alexander Kerensky"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_rus_alexander_kerensky"
+            }
+        }
+        country_leader = {
+            ideology = social_liberalism
+            expire = "1970.7.11"
+            id = -1
+        }
+    }
+}

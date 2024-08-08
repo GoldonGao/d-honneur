@@ -1,0 +1,14 @@
+characters = {
+    JAP_Hirohito = {
+        name = "Emperor Shōwa"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_jap_hirohito"
+            }
+        }
+        country_leader = {
+            ideology = authoritarian_democracy
+            expire = "1989.1.7"
+        }
+    }
+}

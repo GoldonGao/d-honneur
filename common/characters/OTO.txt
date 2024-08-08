@@ -1,0 +1,14 @@
+characters = {
+    OTO_Abdulmejid_II = {
+        name = "Abdulmejid II"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_oto_abdulmejid_ii"
+            }
+        }
+        country_leader = {
+            ideology = authoritarian_democracy
+            expire = "1944.8.23"
+        }
+    }
+}

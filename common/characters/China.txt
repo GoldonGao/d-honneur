@@ -1,0 +1,146 @@
+characters = {
+    ROC_Sun_Yat_Sen = {
+        name = "Sun Yat-sen"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_roc_sun_yat_sen"
+            }
+        }
+        country_leader = {
+            ideology = social_progressivism
+            expire = "1936.2.3"
+        }
+    }
+    YUN_Long_Yun = {
+        name = "Lung Yun"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_yun_long_yun"
+            }
+        }
+        country_leader = {
+            ideology = warlordism
+            expire = "1962.7.27"
+        }
+    }
+    SIK_Yang_Zengxin = {
+        name = "Yang Tseng-hsin"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_sik_yang_zengxin"
+            }
+        }
+        country_leader = {
+                ideology = warlordism
+                expire = "1937.1.2"
+        }
+    }
+    SCC_Liu_Xiang = {
+        name = "Liu Hsiang"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_scc_liu_xiang"
+            }
+        }
+        country_leader = {
+            ideology = warlordism
+            expire = "1938.1.20"
+        }
+    }
+    HSK_Liu_Wenhui = {
+        name = "Liu Wen-hui"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_hsk_liu_wenhui"
+            }
+        }
+        country_leader = {
+            ideology = warlordism
+            expire = "1976.6.24"
+        }
+    }
+    GXC_Li_Zongren = {
+        name = "Li Tsung-jen"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_gxc_li_zongren"
+            }
+        }
+        country_leader = {
+            ideology = warlordism
+            expire = "1969.1.30"
+        }
+    }
+    XSM_Ma_Bufang = {
+        name = "Ma Pu-fang"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_gxc_ma_bufang"
+            }
+        }
+            country_leader = {
+                ideology = warlordism
+                expire = "1975.7.31"
+            }
+    }
+    MON_Xu_Shezheng = {
+        name = "Hsu Seu-Cheng"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_mon_xu_shezheng"
+            }
+        }
+            country_leader = {
+                ideology = warlordism
+                expire = "1947.8.6"
+            }
+    }
+    SHA_Yang_Xucheng = {
+        name = "Yang Hu-ch'eng"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_sha_yang_xucheng"
+            }
+        }
+            country_leader = {
+                ideology = warlordism
+                expire = "1957.3.5"
+            }
+    }
+    SHX_Yan_Xishan = {
+        name = "Yen Hsi-shan"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_shx_yan_xishan"
+            }
+        }
+            country_leader = {
+                ideology = warlordism
+                expire = "1960.7.22"
+            }
+    }
+    EOC_Yuan_Keding = {
+        name = "Emperor Yuntai"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_eoc_yuan_keding"
+            }
+        }
+            country_leader = {
+                ideology = monarchy
+                expire = "1958.3.5"
+            }
+    }
+    FEN_Zhang_Xueliang = {
+        name = "Chang Hsueh-liang"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_fen_zhang_xueliang"
+            }
+        }
+            country_leader = {
+                ideology = warlordism
+                expire = "2001.10.15"
+            }
+    }
+}

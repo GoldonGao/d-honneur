@@ -1,0 +1,15 @@
+characters = {
+    SPA_Alfonso_XIII = {
+        name = "King Alfonso XIII"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_spa_alfonso_xiii"
+            }
+        }
+        country_leader = {
+            ideology = authoritarian_democracy
+            expire = "1941.2.26"
+            id = -1
+        }
+    }
+}
