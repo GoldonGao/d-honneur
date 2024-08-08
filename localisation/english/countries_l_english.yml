@@ -450,3 +450,15 @@
  PHI:0 "Philippines"
  PHI_DEF:0 "the Philippines"
  PHI_ADJ:0 "Philippines"
+
+ OMA:0 "Muscat"
+ OMA_DEF:0 "the Sultanate of Muscat and Oman"
+ OMA_ADJ:0 "Omani"
+
+ MAL:0 "Federated Malay States"
+ MAL_DEF:0 "the Federated Malay States"
+ MAL_ADJ:0 "Malaysian"
+
+ INC:0 "Indochinese Union"
+ INC_DEF:0 "the Indochinese Union"
+ INC_ADJ:0 "Indochina"
