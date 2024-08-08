@@ -1,7 +1,4 @@
 ﻿l_english:
- TST:0 ""
- TST_DEF:0 ""
- TST_ADJ:0 ""
 
  CAN:0 "Dominion of Canada"
  CAN_DEF:0 "the Dominon of Canada"
@@ -474,3 +471,11 @@
  BAN:0 "State of Bengal"
  BAN_DEF:0 "the State of Bengal"
  BAN_ADJ:0 "Bengali"
+
+ RAJ:0 "Dominion of India"
+ RAJ_DEF:0 "the Dominion of India"
+ RAJ_ADJ:0 "British Indian"
+
+ HAW:0 "Hawai'i Kingdom"
+ HAW_DEF:0 "the Hawai'i Kingdom"
+ HAW_ADJ:0 "Hawai'ian"

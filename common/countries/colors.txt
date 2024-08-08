@@ -1,7 +1,3 @@
-TST = {
-	color = rgb { 10 10 10 }
-	color_ui = rgb { 10 10 10 }
-}
 CAN = {
 	color = rgb { 100 40 40 }
 	color_ui = rgb { 155 62 51 }
@@ -473,4 +469,12 @@ SIA = {
 BAN = {
 	color = rgb { 204 204 0 }
 	color_ui = rgb { 204 204 0 }
+}
+RAJ = {
+	color = rgb { 158 50 50 }
+	color_ui = rgb { 158 50 50 }
+}
+HAW = {
+	color = rgb { 255 204 45 }
+	color_ui = rgb { 255 204 45 }
 }
