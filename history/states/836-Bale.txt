@@ -14,16 +14,13 @@ state = {
 			# infrastructure = 1
 		}
 		# Gaba
-		victory_points = { 
-			10775 1
-		}
 		
-		owner = TST
-		add_core_of = TST
+		owner = SOM
+		add_core_of = SOM
 	}
 
 	provinces = {
- 		4995 10775 13248
+ 		4995
  	}
 
 	local_supplies = 0.0 

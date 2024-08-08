@@ -5,7 +5,7 @@ state={
 	state_category = small_island
 
 	history={
-		owner = TST
+		owner = SOM
 		buildings = {
 			infrastructure = 1
 			
@@ -14,8 +14,7 @@ state={
 			}
 
 		}
-		add_core_of = TST
-		add_claim_by = SOM
+		add_core_of = SOM
 	}
 
 	provinces={

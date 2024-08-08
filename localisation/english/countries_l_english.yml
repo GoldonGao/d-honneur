@@ -435,6 +435,10 @@
  DAR_DEF:0 "the Sultanate of Darfur"
  DAR_ADJ:0 "Darfur"
 
- ETH:0 "Abbysinia"
+ ETH:0 "Abbysinian Empire"
  ETH_DEF:0 "the Abbysinian Empire"
  ETH_ADJ:0 "Abbysinian"
+
+ SOM:0 "Sultanate of Somalia"
+ SOM_DEF:0 "the Sultanate of Somalia"
+ SOM_ADJ:0 "Somalian"

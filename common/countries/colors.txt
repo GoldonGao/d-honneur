@@ -438,3 +438,7 @@ ETH = {
 	color = rgb { 165 90 68 }
 	color_ui = rgb { 165 90 68 }
 }
+SOM = {
+	color = rgb { 69 122 124 }
+	color_ui = rgb { 69 122 124 }
+}
