@@ -442,3 +442,11 @@ SOM = {
 	color = rgb { 69 122 124 }
 	color_ui = rgb { 69 122 124 }
 }
+INS = {
+    color = rgb { 219 123 28 }
+	color_ui = rgb { 219 123 28  }
+}
+PHI = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}

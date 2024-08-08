@@ -442,3 +442,11 @@
  SOM:0 "Sultanate of Somalia"
  SOM_DEF:0 "the Sultanate of Somalia"
  SOM_ADJ:0 "Somalian"
+
+ INS:0 "Dutch East Indies"
+ INS_DEF:0 "the Dutch East Indies"
+ INS_ADJ:0 "Indonesian"
+
+ PHI:0 "Philippines"
+ PHI_DEF:0 "the Philippines"
+ PHI_ADJ:0 "Philippines"
