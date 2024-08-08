@@ -36,6 +36,34 @@ set_technology = {
 	radio_detection = 1
 	fuel_silos = 1
 	fuel_refining = 1
+
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+		set_air_oob = "FRA_1936_air_bba"
+		set_technology = {
+			aa_lmg = 1
+			aa_cannon_1 = 1
+			engines_1 = 1
+			engines_2 = 1
+			early_bombs = 1
+			aircraft_construction = 1
+			iw_small_airframe = 1
+			iw_medium_airframe = 1
+			iw_large_airframe = 1
+			air_torpedoe_1 = 1
+		}
+	else = {
+		set_air_oob = "FRA_1936_air_legacy"
+		set_technology = {
+			early_fighter = 1
+			naval_bomber1 = 1
+			cv_early_fighter = 1
+			cv_naval_bomber1 = 1
+			early_bomber = 1
+			tactical_bomber1 = 1
+			CAS1 = 1
+		}
+	}
 }
 
 create_faction = Internationale
@@ -46,10 +74,10 @@ recruit_character = FPR_Marcel_Cachin
 recruit_character = FPR_Leon_Blum
 recruit_character = FPR_Pierre_Etienne
 
-set_convoys = 200
+set_convoys = 286
 set_research_slots = 4
 starting_train_buffer = 2
-set_stability = 0.7
+set_stability = 0.5
 set_war_support = 0.5
 add_command_power = 10
 
