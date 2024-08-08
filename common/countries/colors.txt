@@ -434,3 +434,7 @@ DAR = {
 	color = rgb { 145 133 100 }
 	color_ui = rgb { 145 133 100 }
 }
+ETH = {
+	color = rgb { 165 90 68 }
+	color_ui = rgb { 165 90 68 }
+}

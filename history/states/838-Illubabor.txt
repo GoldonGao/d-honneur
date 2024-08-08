@@ -22,8 +22,8 @@ state = {
 			7912 1  
 		}
 		
-		owner = TST
-		add_core_of = TST
+		owner = ETH
+		add_core_of = ETH
 
 	}
 

@@ -11,9 +11,8 @@ state={
 		victory_points = {
 			5097 1 
 		}
-		owner = TST
-		add_core_of = TST
-		add_core_of = TST
+		owner = ETH
+		add_core_of = ETH
 	}
 
 	provinces={
