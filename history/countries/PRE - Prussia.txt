@@ -1,6 +1,7 @@
 capital = 64
 
 set_popularities = {
+
 	leninist = 0
 	socialist = 8
 	progressive = 11
