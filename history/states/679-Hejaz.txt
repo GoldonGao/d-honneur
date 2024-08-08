@@ -3,7 +3,7 @@ state={
 	name="STATE_679"
 
 	history={
-		owner = TST
+		owner = OTO
 		victory_points = {
 			12758 1 
 		}
@@ -13,12 +13,11 @@ state={
 			
 
 		}
-		add_core_of = TST
 
 	}
 
 	provinces={
-		2033 4981 5099 7934 10748 10835 12758 
+		2033 4981 10835 12758 
 	}
 	manpower=511000
 	buildings_max_level_factor=1.000

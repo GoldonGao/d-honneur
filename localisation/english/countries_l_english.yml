@@ -406,3 +406,15 @@
  NZL:0 "New Zealand"
  NZL_DEF:0 "New Zealand"
  NZL_ADJ:0 "New Zealand"
+
+ JSM:0 "Jabal Shammer"
+ JSM_DEF:0 "the Emirate of Jabal Shammar"
+ JSM_ADJ:0 "Jabal"
+
+ YEM:0 "Yemen"
+ YEM_DEF:0 "the Mutawakkilite Kingdom of Yemen"
+ YEM_ADJ:0 "Yemeni"
+
+ SAU:0 "Nejd and Hasa"
+ SAU_ADJ:0 "the Emirate of Nejd and Hasa"
+ SAU_DEF:0 "Nejd"

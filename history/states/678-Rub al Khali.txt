@@ -3,20 +3,21 @@ state={
 	name="STATE_678"
 
 	history={
-		owner = TST
+		owner = SAU
 		buildings = {
 			infrastructure = 0
 
 		}
-		add_core_of = TST
+		add_core_of = SAU
 
 	}
 
 	provinces={
-		4932 5081 8118 12740 
+		4932 5081 8118 12740 5049 2018 2059 8108 12894 4976 12768
 	}
 	manpower=42
 	buildings_max_level_factor=1.000
 	state_category=wasteland
+	impassable = yes
 	local_supplies=0.000
 }

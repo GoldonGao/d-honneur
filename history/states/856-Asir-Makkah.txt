@@ -2,11 +2,10 @@ state={
 	id=856
 	name="STATE_856"
 	provinces={
-		1923 2090 5037 8073 10786 12883 
+		1923 5037 8073 12883 5918
 	}
 	history = {
-		owner = TST
-		add_core_of	= TST
+		owner = OTO
 		buildings = {
 			infrastructure = 1
 			12883 = {

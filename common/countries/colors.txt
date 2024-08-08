@@ -406,3 +406,15 @@ NZL = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
 }
+JSM = {
+	color = rgb { 255 204 45 }
+	color_ui = rgb { 255 204 45 }
+}
+YEM = {
+	color = rgb { 233 155 81 }
+	color_ui = rgb { 233 155 81 }
+}
+SAU = {
+	color = rgb { 103 156 87 }
+	color_ui = rgb { 103 156 87 }
+}
