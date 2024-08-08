@@ -15,6 +15,7 @@ set_popularities = {
 set_politics = {
 	ruling_party = conservative
 	elections_allowed = yes
+	last_election = "1933.3.25"
 }
 
 set_technology = {
