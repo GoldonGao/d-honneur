@@ -1,0 +1,24 @@
+﻿capital = 754
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	fleet_in_being = 1
+	basic_train = 1
+}
+
+set_politics = {
+	ruling_party = autocratic
+	elections_allowed = no
+}
+
+set_popularities = {
+	autocratic = 100
+}
+
+set_stability = 0.5
+set_war_support = 0.4
+set_research_slots = 3
+
+set_cosmetic_tag = TZN_ENG
