@@ -1,4 +1,4 @@
-capital = 16
+capital = 219
 
 set_popularities = {
 	liberal = 100
