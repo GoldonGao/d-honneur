@@ -1,7 +1,16 @@
 capital = 4
 
 set_popularities = {
-	authoritarian = 100
+
+	leninist = 0
+	socialist = 5
+	progressive = 10
+	liberal = 0
+	conservative = 13
+	authoritarian = 72
+	autocratic = 0
+	fascism = 0
+
 }
 
 set_politics = {
@@ -12,26 +21,68 @@ set_politics = {
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1
-	tech_support = 1
+	tech_support = 1		
 	tech_engineers = 1
-	tech_recon = 1
+	tech_mountaineers = 1
 	tech_trucks = 1
 	motorised_infantry = 1
 	gw_artillery = 1
 	interwar_antiair = 1
-	basic_train = 1
-	trench_warfare = 1
-	fleet_in_being = 1
-	electronic_mechanical_engineering = 1
-	radio = 1
-	radio_detection = 1
 	fuel_silos = 1
 	fuel_refining = 1
+	basic_train = 1
+}
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	set_technology = {
+		armored_car1 = 1 
+}
+
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_technology = {
+		gwtank_chassis = 1
+		basic_light_tank_chassis = 1
+}
+
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+		set_air_oob = "AUS_1936_air_bba"
+		set_technology = {
+			aa_lmg = 1
+			early_bombs = 1
+			aircraft_construction = 1
+			engines_1 = 1
+			engines_2 = 1
+			iw_small_airframe = 1
+			iw_medium_airframe = 1
+			basic_small_airframe = 1
+			basic_medium_airframe = 1
+	}
+}
+
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		basic_battery = 1
+		basic_torpedo = 1
+		basic_depth_charges = 1
+	}
 }
 
 recruit_character = AUS_Karl_I
 
-set_convoys = 100
+set_convoys = 26
 set_research_slots = 3
 starting_train_buffer = 2
 set_stability = 0.5
