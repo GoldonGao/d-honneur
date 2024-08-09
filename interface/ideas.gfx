@@ -2,18 +2,18 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_idea_deadlocked_government"
-		texturefile = "gfx/interface/ideas/government_deadlock.png"
+		texturefile = "gfx/interface/ideas/government_deadlock.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_birthplace_revolution"
-		texturefile = "gfx/interface/ideas/home_of_revolution.png"
+		texturefile = "gfx/interface/ideas/home_of_revolution.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_four_year_plan"
-		texturefile = "gfx/interface/ideas/4_year_plan.png"
+		texturefile = "gfx/interface/ideas/4_year_plan.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_spirit_of_the_workers"
-		texturefile = "gfx/interface/ideas/french_worker_thingy.png"
+		texturefile = "gfx/interface/ideas/french_worker_thingy.dds"
 	}
 }
