@@ -38,8 +38,6 @@ set_technology = {
 	fuel_refining = 1
 }
 
-recruit_character = PRE_Franz_Von_Papen
-
 set_convoys = 100
 set_research_slots = 3
 starting_train_buffer = 2
