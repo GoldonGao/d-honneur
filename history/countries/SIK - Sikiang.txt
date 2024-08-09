@@ -20,7 +20,6 @@ set_popularities = {
 
 
 recruit_character = SIK_Yang_Zengxin
-set_cosmetic_tag = SIK_EOC
 
 set_stability = 0.6
 set_war_support = 0.4

@@ -1,3 +1,48 @@
+has_large_ally_not_pick_closed_economy = {
+	any_of_scopes = {
+		array = faction_members
+
+		NOT = { tag = PREV }
+		num_of_military_factories > 30
+	}
+}
+
+owns_or_subject_of = {
+	custom_trigger_tooltip = {
+		tooltip = owns_or_subject_of_tt
+		owner = {
+			OR = {
+				tag = ROOT
+				is_subject_of = ROOT
+			}
+		}
+	}
+}
+
+controls_or_subject_of = {
+	custom_trigger_tooltip = {
+		tooltip = controls_or_subject_of_tt
+		controller = {
+			OR = {
+				tag = ROOT
+				is_subject_of = ROOT
+			}
+		}
+	}
+}
+
+is_core_or_compliance_60 = {
+	custom_trigger_tooltip = {
+		tooltip = is_core_or_compliance_60_tt
+		OR = {
+			controller = {
+				PREV = { is_core_of = PREV }
+			}
+			compliance > 60
+		}
+	}
+}
+
 should_activate_active_crypto_bonuses = {
 	always = no
 }
@@ -64,19 +109,6 @@ anti_submarine_strategy_required_trigger = {
 			type = submarine
 			size > 30
 		}
-	}
-}
-is_germanic = {
-	OR = {
-		original_tag = KON
-		original_tag = NOR
-		original_tag = SWE
-		original_tag = DEN
-		original_tag = SWI
-		original_tag = HOL
-		original_tag = LUX
-		original_tag = BEL
-		original_tag = AUS
 	}
 }
 
@@ -182,15 +214,6 @@ trade_partner_not_at_war = {
 		tooltip = trade_partner_not_at_war_tt
 		FROM = { 
 			has_war = yes 
-		}
-	}
-}
-
-is_conservative_seller_trigger = {
-	custom_trigger_tooltip = {
-		tooltip = "Democratic Countries"
-		FROM = {
-			has_government = conservative
 		}
 	}
 }

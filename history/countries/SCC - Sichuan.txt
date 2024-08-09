@@ -21,7 +21,6 @@ set_popularities = {
 }
 
 recruit_character = SCC_Liu_Xiang
-set_cosmetic_tag = SCC_ROC
 
 set_stability = 0.6
 set_war_support = 0.4

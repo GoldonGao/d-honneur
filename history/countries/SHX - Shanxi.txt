@@ -19,7 +19,6 @@ set_popularities = {
 }
 
 recruit_character = SHX_Yan_Xishan
-set_cosmetic_tag = SHX_EOC
 
 set_stability = 0.6
 set_war_support = 0.4

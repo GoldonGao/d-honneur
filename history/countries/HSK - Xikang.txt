@@ -21,7 +21,6 @@ set_popularities = {
 }
 
 recruit_character = HSK_Liu_Wenhui
-set_cosmetic_tag = HSK_ROC
 
 set_stability = 0.6
 set_war_support = 0.4
