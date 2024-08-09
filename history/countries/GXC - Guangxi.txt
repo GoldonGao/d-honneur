@@ -19,7 +19,6 @@ set_popularities = {
 }
 
 recruit_character = GXC_Li_Zongren
-set_cosmetic_tag = GXC_ROC
 
 set_stability = 0.6
 set_war_support = 0.4

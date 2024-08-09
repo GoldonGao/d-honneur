@@ -19,7 +19,6 @@ set_popularities = {
 }
 
 recruit_character = SHA_Yang_Xucheng
-set_cosmetic_tag = SHA_EOC
 
 set_stability = 0.6
 set_war_support = 0.4

@@ -20,7 +20,6 @@ set_popularities = {
 
 
 recruit_character = FEN_Zhang_Xueliang
-set_cosmetic_tag = FEN_EOC
 
 set_stability = 0.6
 set_war_support = 0.4

@@ -21,7 +21,6 @@ set_popularities = {
 }
 
 recruit_character = YUN_Long_Yun
-set_cosmetic_tag = YUN_ROC
 
 set_stability = 0.6
 set_war_support = 0.4
