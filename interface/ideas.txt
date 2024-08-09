@@ -13,7 +13,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/4_year_plan.png"
 	}
 	spriteType = {
-		name = "GFX_idea_GFX_spirit_of_the_workers"
+		name = "GFX_idea_spirit_of_the_workers"
 		texturefile = "gfx/interface/ideas/french_worker_thingy.png"
 	}
 }

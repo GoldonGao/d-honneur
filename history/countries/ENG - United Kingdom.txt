@@ -14,7 +14,7 @@ set_popularities = {
 }
 
 set_politics = {
-	ruling_party = conservative
+	ruling_party = authoritarian
 	last_election = "1935.10.22"
 	elections_allowed = yes
 }
@@ -88,13 +88,6 @@ if = {
 		gwtank_chassis = 1
 		basic_light_tank_chassis = 1
 	}
-}
-
-if = {
-	limit = {
-		has_dlc = "Battle for the Bosporus"
-	}
-	set_technology = { camelry = 1 }
 }
 
 if = {

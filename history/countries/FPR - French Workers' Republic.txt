@@ -2,10 +2,10 @@
 
 set_popularities = {
 
-	leninist = 48
-	socialist = 33
+	leninist = 38
+	socialist = 37
 	progressive = 19
-	liberal = 0
+	liberal = 6
 	conservative = 0
 	authoritarian = 0
 	autocratic = 0
@@ -107,6 +107,8 @@ if = {
 		mtg_transport = 1
 		basic_dp_light_battery = 1
 		cruiser_submarines = 1
+	}
+}
 
 if = {
 	limit = {
@@ -116,12 +118,6 @@ if = {
 		armored_car1 = 1
 	}
 }
-
-if = {
-	limit = {
-		has_dlc = "Battle for the Bosporus"
-	}
-	set_technology = { camelry = 1 }
 
 create_faction = Internationale
 
