@@ -50,8 +50,8 @@
 
  ENG_fascism:0 "British Empire"
  ENG_fascism_DEF:0 "the British Empire"
- ENG_autocracy:0 "Commonwealth of Britain"
- ENG_autocracy_DEF:0 "the Commonwealth of Great Britain"
+ ENG_autocratic:0 "Commonwealth of Britain"
+ ENG_autocratic_DEF:0 "the Commonwealth of Great Britain"
  ENG_authoritarian:0 "United Kingdom of Great Britain"
  ENG_authoritarian_DEF:0 "the United Kingdom of Great Britain"
  ENG_conservative:0 "United Kingdom of Great Britain"
@@ -132,8 +132,8 @@
 
  FPR_fascism:0 "French State"
  FPR_fascism_DEF:0 "the French State"
- FPR_autocracy:0 "French Republic"
- FPR_autocracy_DEF:0 "the French Republic"
+ FPR_autocratic:0 "French Republic"
+ FPR_autocratic_DEF:0 "the French Republic"
  FPR_authoritarian:0 "Kingdom of France"
  FPR_authoritarian_DEF:0 "the Kingdom of France"
  FPR_conservative:0 "French Republic"
@@ -246,8 +246,8 @@
 
  FRA_fascism:0 "French State"
  FRA_fascism_DEF:0 "the French State"
- FRA_autocracy:0 "French Republic"
- FRA_autocracy_DEF:0 "the French Republic"
+ FRA_autocratic:0 "French Republic"
+ FRA_autocratic_DEF:0 "the French Republic"
  FRA_authoritarian:0 "Third French Empire"
  FRA_authoritarian_DEF:0 "the Third French Empire"
  FRA_conservative:0 "French Republic"
