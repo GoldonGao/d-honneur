@@ -153,8 +153,6 @@ ideologies = {
 			can_puppet = yes
 		}
 
-		can_collaborate = yes
-
 		modifiers = {
 			# puppet_cost_factor = -0.3 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
 			civilian_intel_to_others = 10.0
@@ -192,7 +190,7 @@ ideologies = {
 
 		color = { 209 0 0 }
 
-		war_impact_on_world_tension = 0.75		#Commie less threatening
+		war_impact_on_world_tension = 0.5		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
 
 		ai_communist = yes # uses the commie AI behaviour
@@ -204,10 +202,7 @@ ideologies = {
 			can_puppet = yes
 		}
 
-		can_collaborate = yes
-
 		modifiers = {
-			# puppet_cost_factor = -0.3 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
 			civilian_intel_to_others = 10.0
 			army_intel_to_others = 7.5
 			navy_intel_to_others = 12.5
@@ -267,7 +262,6 @@ ideologies = {
 			lend_lease_tension = 0.50
 			send_volunteers_tension = 0.50
 			guarantee_tension = 0.25
-			# annex_cost_factor = 0.5 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
 			civilian_intel_to_others = 20.0
 			army_intel_to_others = 5.0
 			navy_intel_to_others = 20.0
@@ -314,8 +308,6 @@ ideologies = {
 			can_puppet = yes
 		}
 
-		can_collaborate = yes
-
 		modifiers = {
 			justify_war_goal_when_in_major_war_time = -0.80
 			civilian_intel_to_others = 15.0
@@ -352,7 +344,7 @@ ideologies = {
 
 		color = { 105 101 100 }
 
-		war_impact_on_world_tension = 1.0			#evil!
+		war_impact_on_world_tension = 0.75			#evil!
 		faction_impact_on_world_tension = 1.0
 
 		rules = {
@@ -360,8 +352,6 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 		}
-
-		can_collaborate = yes
 
 		modifiers = {
 			justify_war_goal_when_in_major_war_time = -0.80
@@ -399,7 +389,7 @@ ideologies = {
 		color = { 155 152 150 }
 
 
-		war_impact_on_world_tension = 0.25		#no major danger
+		war_impact_on_world_tension = 0.5		#no major danger
 		faction_impact_on_world_tension = 0.1
 
 		rules = {
