@@ -65,7 +65,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_idea_unknown"
 			orientation = "CENTER"
 			centerposition = yes
-			scale = 0.55
+			scale = 0.50
 		}
 	}
 
@@ -92,7 +92,7 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "spirit_modifier_entry_small"
-		size = { width=33 height=37 }
+		size = { width=45 height=37 }
 		clipping = no
 
 		iconType = {
