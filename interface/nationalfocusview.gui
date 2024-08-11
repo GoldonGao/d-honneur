@@ -115,6 +115,7 @@ guiTypes = {
 			}
 		}
 
+
 		### end zoom slider
 
 		containerWindowType = {
@@ -126,6 +127,7 @@ guiTypes = {
 			verticalScrollbar = "right_vertical_slider"
 			horizontalScrollbar = "bottom_horizontal_slider"
 
+
 			background = {
 				name = "Background"
 				quadTextureSprite ="GFX_tiled_bg"
@@ -135,13 +137,7 @@ guiTypes = {
 				name = "Background"
 				quadTextureSprite ="GFX_tiled_focus_bg"
 			}
-
-			containerWindowType = {
-				name = "a_focus_background"
-				position = { x = 0 y = 0 }
-				size = { width = 1000 height = 1000 }
-			}
-
+			
 			containerWindowType = {
 				name = "techtree_stripes"
 				position = { x= 0 y= 10 }
@@ -150,6 +146,12 @@ guiTypes = {
 
 			}
 
+			containerWindowType = {
+				name = "a_focus_background"
+				position = { x = 0 y = 0 }
+				size = { width = 1000 height = 1000 }
+			}
+			
 			containerWindowType = {
 				name = "grid_window"
 				position = { x=0 y=0 }
@@ -165,28 +167,28 @@ guiTypes = {
 				iconType ={
 					name ="tutorial_glow_1"
 					spriteType = "GFX_tutorial_national_focus_icon_glow"
-					position = { x= 61 y = 20 }
+					position = { x= 252 y = 20 }
 					Orientation = "UPPER_LEFT"
 					hide = yes
 				}
 				iconType ={
 					name ="tutorial_glow_2"
 					spriteType = "GFX_tutorial_national_focus_icon_glow"
-					position = { x= 61 y = 150 }
+					position = { x= 829 y = 20 }
 					Orientation = "UPPER_LEFT"
 					hide = yes
 				}
 				iconType ={
 					name ="tutorial_glow_3"
 					spriteType = "GFX_tutorial_national_focus_icon_glow"
-					position = { x= 61 y = 280 }
+					position = { x= 1116 y = 150 }
 					Orientation = "UPPER_LEFT"
 					hide = yes
 				}
 				iconType ={
 					name ="tutorial_glow_4"
 					spriteType = "GFX_tutorial_national_focus_icon_glow"
-					position = { x= 155 y = 410 }
+					position = { x= 1308 y = 150 }
 					Orientation = "UPPER_LEFT"
 					hide = yes
 				}
@@ -374,6 +376,7 @@ guiTypes = {
 				background = {
 					name = "Background"
 					spriteType ="GFX_tiled_window_transparent"
+					alwaystransparent = yes
 				}
 			
 				containerWindowType = {
@@ -386,6 +389,7 @@ guiTypes = {
 					background = {
 						name = "Background"
 						spriteType ="GFX_tiled_window_transparent"
+						alwaystransparent = yes
 					}
 					
 					gridboxtype = {
@@ -516,6 +520,20 @@ guiTypes = {
 			maxHeight = 20
 			format = center
 			vertical_alignment = center 			
+			alwaystransparent = yes
+		}
+
+		iconType = {
+			name = "viewing_flag"
+			quadTextureSprite ="GFX_flag_small2"
+			position = {  x=110 y=30 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType ={
+			name ="viewing_flag_border"
+			quadTextureSprite = "GFX_diplo_countrylist_flag_frame"
+			position = { x= 105 y = 25 }
 			alwaystransparent = yes
 		}
 	}
@@ -675,7 +693,8 @@ guiTypes = {
 			text = ""
 			maxWidth = 450
 			maxHeight = 30
-			format = center		
+			format = center
+			fixedsize = yes		
 		}
 		iconType = {
 			name = "symbol"
@@ -944,7 +963,6 @@ guiTypes = {
 			buttonFont = "hoi_20b"
 			position = { x=390 y=53 }
 			clicksound = click_default
-			hide = yes
 		}
 		
 		instantTextboxType = {
