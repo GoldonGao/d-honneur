@@ -8,10 +8,7 @@ state = {
 		owner = FPR
 		add_core_of = FPR
 		buildings = {
-			infrastructure = 2
-			9909 = {
-				naval_base = 2
-			}		
+			infrastructure = 2	
 		}
 	}
 
