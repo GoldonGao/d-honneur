@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = social_progressivism
+            ideology = social_democracy
             expire = "1936.2.3"
         }
     }

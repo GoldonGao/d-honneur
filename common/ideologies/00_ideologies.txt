@@ -7,7 +7,6 @@ ideologies = {
 			social_conservatism = {}
 			free_market_conservatism = {}
 			christian_conservatism = {}
-			paleoconservatism = {}
 
 		}
 
@@ -67,7 +66,6 @@ ideologies = {
 			social_liberalism = {}
 			market_liberalism = {}
 			christian_progressivism = {}
-			libertarianism = {}
 
 		}
 
@@ -175,7 +173,6 @@ ideologies = {
 		types = {
 
 			democratic_socialism = {}
-			libertarian_socialism = {}
 			anarcho_socialism = {}
 			revolutionary_socialism = {}
 
@@ -222,11 +219,9 @@ ideologies = {
 
 		types = {
 
-			social_progressivism = {}
 			evironmentalism = {}
 			social_credit = {}
 			social_democracy = {}
-			egalitarianism = {}
 
 		}
 		dynamic_faction_names = {

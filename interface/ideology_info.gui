@@ -4,12 +4,12 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "countrypoliticsview_ideology_info"
-		position = { x = 88 y = 305 }
+		position = { x = 188 y = 305 }
 		instantTextboxType = {
-			name = "ideology_gui"
+			name = "ideology"
 			position = { x = 9 y = 8 }
 			font = "hoi_18mbs"
-			text = "[?country_leader.GetIdeologyGroup]"
+			text = ""
 			maxWidth = 155
 			maxHeight = 18
 			fixedsize = yes
@@ -23,7 +23,7 @@ guiTypes = {
 		clipping = no
 
 		instantTextboxType = {
-			name = "ideology_gui"
+			name = "ideology"
 			position = { x = 5 y = 10 }
 			font = "hoi_16mbs"
 			text = "[?country_leader.GetIdeologyGroup]"
