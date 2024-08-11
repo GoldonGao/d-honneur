@@ -18,7 +18,6 @@ set_popularities = {
 	autocratic = 100
 }
 
-
 recruit_character = FEN_Zhang_Xueliang
 
 set_stability = 0.6

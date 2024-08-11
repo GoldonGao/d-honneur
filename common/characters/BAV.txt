@@ -1,6 +1,6 @@
 characters = {
     BAY_Rupprecht = {
-        name = "King Rupprecht"
+        name = "King Rupprecht I"
         portraits = {
             civilian = {
                 large = "GFX_portrait_bay_rupprecht"

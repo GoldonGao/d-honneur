@@ -2,11 +2,11 @@
 
 set_popularities = {
 
-	leninist = 38
+	leninist = 35
 	socialist = 37
 	progressive = 19
 	liberal = 6
-	conservative = 0
+	conservative = 3
 	authoritarian = 0
 	autocratic = 0
 	fascism = 0

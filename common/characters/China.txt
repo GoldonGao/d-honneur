@@ -75,37 +75,25 @@ characters = {
         name = "Ma Pu-fang"
         portraits = {
             civilian = {
-                large = "GFX_portrait_gxc_ma_bufang"
+                large = "GFX_portrait_xsm_ma_bufang"
             }
         }
-            country_leader = {
-                ideology = warlordism
-                expire = "1975.7.31"
-            }
-    }
-    MON_Xu_Shezheng = {
-        name = "Hsu Seu-Cheng"
-        portraits = {
-            civilian = {
-                large = "GFX_portrait_mon_xu_shezheng"
-            }
+        country_leader = {
+            ideology = warlordism
+            expire = "1975.7.31"
         }
-            country_leader = {
-                ideology = warlordism
-                expire = "1947.8.6"
-            }
     }
     SHA_Yang_Xucheng = {
         name = "Yang Hu-ch'eng"
         portraits = {
             civilian = {
-                large = "GFX_portrait_sha_yang_xucheng"
+                large = "GFX_portrait_sha_yang_hucheng"
             }
         }
-            country_leader = {
-                ideology = warlordism
-                expire = "1957.3.5"
-            }
+        country_leader = {
+            ideology = warlordism
+            expire = "1957.3.5"
+        }
     }
     SHX_Yan_Xishan = {
         name = "Yen Hsi-shan"
@@ -114,10 +102,10 @@ characters = {
                 large = "GFX_portrait_shx_yan_xishan"
             }
         }
-            country_leader = {
-                ideology = warlordism
-                expire = "1960.7.22"
-            }
+        country_leader = {
+            ideology = warlordism
+            expire = "1960.7.22"
+        }
     }
     EOC_Yuan_Keding = {
         name = "Emperor Yuntai"
@@ -126,10 +114,10 @@ characters = {
                 large = "GFX_portrait_eoc_yuan_keding"
             }
         }
-            country_leader = {
-                ideology = monarchy
-                expire = "1958.3.5"
-            }
+        country_leader = {
+            ideology = monarchy
+            expire = "1958.3.5"
+        }
     }
     FEN_Zhang_Xueliang = {
         name = "Chang Hsueh-liang"
@@ -138,9 +126,9 @@ characters = {
                 large = "GFX_portrait_fen_zhang_xueliang"
             }
         }
-            country_leader = {
-                ideology = warlordism
-                expire = "2001.10.15"
-            }
+        country_leader = {
+            ideology = warlordism
+            expire = "2001.10.15"
+        }
     }
 }

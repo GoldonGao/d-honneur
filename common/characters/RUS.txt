@@ -12,4 +12,17 @@ characters = {
             id = -1
         }
     }
+    RUS_Tsar_Kirill_I = {
+        name = "Tsar Kirill I"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_rus_kirill_i"
+            }
+        }
+        country_leader = {
+            ideology = monarchy
+            expire = "1938.10.12"
+            id = -1
+        }
+    }
 }

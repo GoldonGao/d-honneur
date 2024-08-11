@@ -15,10 +15,9 @@ set_politics = {
 }
 
 set_popularities = {
-	autocratic = 100
+	autocratic = 90
+	authoritarian = 10
 }
-
-
 
 set_stability = 0.6
 set_war_support = 0.4

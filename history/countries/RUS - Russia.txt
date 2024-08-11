@@ -1,11 +1,20 @@
 capital = 195
 
 set_popularities = {
-	liberal = 100
+
+	leninist = 3
+	socialist = 12
+	progressive = 14
+	liberal = 16
+	conservative = 20
+	authoritarian = 35
+	autocratic = 0
+	fascism = 0
+
 }
 
 set_politics = {
-	ruling_party = liberal
+	ruling_party = authoritarian
 	elections_allowed = no
 }
 
@@ -29,6 +38,7 @@ set_technology = {
 	fuel_refining = 1
 }
 
+recruit_character = RUS_Tsar_Kirill_I
 recruit_character = RUS_Alexander_Kerensky
 
 set_convoys = 100

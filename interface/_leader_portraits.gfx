@@ -81,6 +81,11 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_portrait_rus_kirill_i"
+		texturefile = "gfx/leaders/RUS/portrait_RUS_Kirill_I.png"
+	}
+
+	spriteType = {
 		name = "GFX_portrait_spa_alfonso_xiii"
 		texturefile = "gfx/leaders/SPA/portrait_SPA_Alfonso_XIII.png"
 	}
@@ -109,5 +114,54 @@ spriteTypes = {
 		name = "GFX_portrait_roc_sun_yat_sen"
 		texturefile = "gfx/leaders/ROC/portrait_ROC_Sun_Yat_sen.png"
 	}
-	
+
+	spriteType = {
+		name = "GFX_portrait_eoc_yuan_keding"
+		texturefile = "gfx/leaders/EOC/portrait_EOC_Yuan_Keding.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_yun_long_yun"
+		texturefile = "gfx/leaders/YUN/portrait_YUN_Long_Yun.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_sik_yang_zengxin"
+		texturefile = "gfx/leaders/SIK/portrait_SIK_Yang_Zengxin.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_scc_liu_xiang"
+		texturefile = "gfx/leaders/SCC/portrait_SCC_Liu_Xiang.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_hsk_liu_wenhui"
+		texturefile = "gfx/leaders/HSK/portrait_HSK_Liu_Wenhui.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_gxc_li_zongren"
+		texturefile = "gfx/leaders/GXC/portrait_GXC_Li_Zongren.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_xsm_ma_bufang"
+		texturefile = "gfx/leaders/XSM/portrait_XSM_Ma_Bufang.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_sha_yang_hucheng"
+		texturefile = "gfx/leaders/SHA/portrait_SHA_Yang_Hucheng.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_shx_yan_xishan"
+		texturefile = "gfx/leaders/SHX/portrait_SHX_Yan_Xishan.png"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_fen_zhang_xueliang"
+		texturefile = "gfx/leaders/FEN/portrait_FEN_Zhang_Xueliang.png"
+	}
 }
