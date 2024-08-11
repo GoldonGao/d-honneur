@@ -10,6 +10,14 @@ state={
 		}
 		owner = OLD
 		add_core_of = OLD
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 3
+			dockyard = 1
+			241 = {
+				naval_base = 8
+			}
+		}
 	}
 	manpower=60000
 	buildings_max_level_factor=1.000
