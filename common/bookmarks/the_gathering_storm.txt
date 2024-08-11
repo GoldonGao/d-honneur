@@ -29,7 +29,7 @@ bookmarks = {
 		}
 		"RUS"={
 			history = "RUS_GATHERING_STORM_DESC"
-			ideology = conservative
+			ideology = authoritarian
 			ideas = {
 			}
 			focuses = {
