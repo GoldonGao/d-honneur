@@ -28,28 +28,3 @@ recruit_character = ROC_Sun_Yat_Sen
 set_popularities = {
 	progressive = 100
 }
-
-set_autonomy = {
-	target = GXC
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = SCC
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = YUN
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = YUN
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = HSK
-	autonomous_state = autonomy_puppet
-}

@@ -142,22 +142,12 @@ set_autonomy = {
 }
 
 set_autonomy = {
-	target = CAN
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
 	target = NZL
 	autonomous_state = autonomy_puppet
 }
 
 set_autonomy = {
 	target = MAD
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = SAF
 	autonomous_state = autonomy_puppet
 }
 
@@ -193,10 +183,5 @@ set_autonomy = {
 
 set_autonomy = {
 	target = NZL
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = ORE
 	autonomous_state = autonomy_puppet
 }

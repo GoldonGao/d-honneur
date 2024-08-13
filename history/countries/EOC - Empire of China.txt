@@ -28,33 +28,3 @@ set_popularities = {
 }
 
 recruit_character = EOC_Yuan_Keding
-
-set_autonomy = {
-	target = XSM
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = FEN
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = MON
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = SIK
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = SHX
-	autonomous_state = autonomy_puppet
-}
-
-set_autonomy = {
-	target = SHA
-	autonomous_state = autonomy_puppet
-}

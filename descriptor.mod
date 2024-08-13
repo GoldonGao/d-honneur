@@ -1,4 +1,5 @@
 name="Au Champ d'Honneur"
+picture="thumbnail.png"
 version="1.0"
 tags={
 	"Alternative History"
