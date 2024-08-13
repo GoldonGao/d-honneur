@@ -71,11 +71,11 @@ characters = {
             expire = "1969.1.30"
         }
     }
-    XSM_Ma_Bufang = {
+    XSM_Ma_Pufang = {
         name = "Ma Pu-fang"
         portraits = {
             civilian = {
-                large = "GFX_portrait_xsm_ma_bufang"
+                large = "GFX_portrait_xsm_ma_pufang"
             }
         }
         country_leader = {

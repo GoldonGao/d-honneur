@@ -19,7 +19,6 @@ bookmarks = {
 			history = "FPR_GATHERING_STORM_DESC"
 			ideology = socialist
 			ideas = {
-				deadlocked_government
 				birthplace_revolution
 				four_year_plan
 				spirit_of_the_workers

@@ -146,7 +146,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_portrait_xsm_ma_bufang"
+		name = "GFX_portrait_xsm_ma_pufang"
 		texturefile = "gfx/leaders/XSM/portrait_XSM_Ma_Bufang.png"
 	}
 

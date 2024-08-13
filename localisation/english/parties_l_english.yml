@@ -129,7 +129,7 @@
 
 
  #Commune of France
- FPR_conservative_party:0 "Fédération Républicaine"
+ FPR_conservative_party:0 "FR"
  FPR_conservative_party_long:0 "Fédération Républicaine"
  FPR_liberal_party:0 "Parti Radical"
  FPR_liberal_party_long:0 "Parti Radical et Radical-Socialiste"
@@ -139,15 +139,15 @@
  FPR_leninist_party_long:0 "Parti Communiste Français"
  FPR_socialist_party:0 "PSdF"
  FPR_socialist_party_long:0 "Parti Socialiste de France - Union Jean Jaurès"
- FPR_fascism_party:0 "Parti Populaire"
+ FPR_fascism_party:0 "PPF"
  FPR_fascism_party_long:0 "Parti Populaire Français"
  FPR_authoritarian_party:0 "House of Bourbon"
  FPR_authoritarian_party_long:0 "House of Bourbon"
- FPR_autocratic_party:0 "PCM"
- FPR_autocratic_party_long:0 "Patriotes Chrétiens Militants"
+ FPR_autocratic_party:0 "Military Rule"
+ FPR_autocratic_party_long:0 "Military Rule"
 
  #Nationalist France
- FPR_conservative_party:0 "Fédération Républicaine"
+ FPR_conservative_party:0 "FR"
  FPR_conservative_party_long:0 "Fédération Républicaine"
  FPR_liberal_party:0 "Parti Radical"
  FPR_liberal_party_long:0 "Parti Radical et Radical-Socialiste"
@@ -157,7 +157,7 @@
  FPR_leninist_party_long:0 "Parti Communiste Français"
  FPR_socialist_party:0 "PSdF"
  FPR_socialist_party_long:0 "Parti Socialiste de France - Union Jean Jaurès"
- FPR_fascism_party:0 "Parti Populaire"
+ FPR_fascism_party:0 "PPF"
  FPR_fascism_party_long:0 "Parti Populaire Français"
  FPR_authoritarian_party:0 "House of Bonaparte"
  FPR_authoritarian_party_long:0 "House of Bonaparte"
