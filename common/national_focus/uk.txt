@@ -1,0 +1,25 @@
+focus_tree = {
+	id = british_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = ENG
+		}
+	}
+	default = no
+
+	focus = {
+		id = ENG_death_of_the_king
+		available = { always = no }
+		
+		x = 10
+		y = 0
+		cost = 10
+
+	}
+
+
+}
