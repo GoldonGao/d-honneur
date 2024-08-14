@@ -4,7 +4,7 @@ news_event = {
 	id = britain.1
 	title = britain.1.t
 	desc = britain.1.d
-	picture = GFX_report_event_europe_funeral
+	picture = GFX_report_event_generic
 	
     trigger = {
         date > 1936.1.19
@@ -15,10 +15,16 @@ news_event = {
 
 	mean_time_to_happen = { days = 1 }
 
+    immediate = {
+		hidden_effect {
+			retire_country_leader = yes
+		}
+	}
+
     option = {
         name = britain.1.a
         add_stability = -0.05
-        add_war_support = -0.05
     }
+
 	
 }

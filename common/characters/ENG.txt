@@ -12,6 +12,19 @@ characters = {
         }
     }
 
+    ENG_Edward_VIII = {
+        name = "King Edward VIII"
+        portraits = {
+            civilian = {
+                large = "GFX_portrait_eng_edward_iii"
+            }
+        }
+        country_leader = {
+            ideology = authoritarian_democracy
+            expire = "1972.5.28"
+        }
+    }
+
     ENG_Oswalt_Mosley = {
         name = "Oswalt Mosley"
         portraits = {

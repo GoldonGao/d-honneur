@@ -6,6 +6,11 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_portrait_eng_edward_viii"
+		texturefile = "gfx/leaders/ENG/portrait_ENG_Edward_VIII.png"
+	}
+
+	spriteType = {
 		name = "GFX_portrait_eng_oswalt_mosley"
 		texturefile = "gfx/leaders/ENG/portrait_ENG_Oswalt_Mosley.png"
 	}

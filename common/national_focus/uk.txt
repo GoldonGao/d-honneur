@@ -14,12 +14,16 @@ focus_tree = {
 	focus = {
 		id = ENG_death_of_the_king
 		available = { always = no }
-		
+		bypass = {
+			has_country_leader = {
+				character = ENG_King_Edward_VIII
+				ruling_only = yes
+			}
+		}
 		x = 10
 		y = 0
 		cost = 10
 
 	}
-
-
+	
 }

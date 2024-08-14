@@ -129,6 +129,7 @@ set_war_support = 0.25
 add_command_power = 20
 
 recruit_character = ENG_George_V
+recruit_character = ENG_Edward_VIII
 recruit_character = ENG_Oswalt_Mosley
 recruit_character = ENG_Philip_Snowden
 recruit_character = ENG_Clement_Attlee
