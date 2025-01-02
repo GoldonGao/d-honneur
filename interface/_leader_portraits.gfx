@@ -142,7 +142,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_hsk_liu_wenhui"
-		texturefile = "gfx/leaders/HSK/portrait_HSK_Liu_Wenhui.png"
+		texturefile = "gfx/leaders/SCC/portrait_HSK_Liu_Wenhui.png"
 	}
 
 	spriteType = {

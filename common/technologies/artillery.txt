@@ -660,8 +660,8 @@ technologies = {
 					tag = PRC
 					tag = XSM
 					tag = SIK
-					tag = GXC
-					tag = SHX
+					tag = ROC
+					tag = EOC
 					tag = YUN
 				}
 			}
@@ -983,8 +983,8 @@ technologies = {
 					tag = PRC
 					tag = XSM
 					tag = SIK
-					tag = GXC
-					tag = SHX
+					tag = ROC
+					tag = EOC
 					tag = YUN
 				}
 			}

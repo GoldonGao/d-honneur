@@ -8,7 +8,7 @@
  DEN_DEF:0 "the Kingdom of Denmark"
  DEN_ADJ:0 "Danish"
 
- USA:0 "United States of America"
+ USA:0 "United States"
  USA_DEF:0 "the United States of America"
  USA_ADJ:0 "American"
 
@@ -52,11 +52,11 @@
  ENG_fascism_DEF:0 "the British Empire"
  ENG_autocratic:0 "Commonwealth of Britain"
  ENG_autocratic_DEF:0 "the Commonwealth of Great Britain"
- ENG_authoritarian:0 "United Kingdom of Great Britain"
+ ENG_authoritarian:0 "United Kingdom"
  ENG_authoritarian_DEF:0 "the United Kingdom of Great Britain"
- ENG_conservative:0 "United Kingdom of Great Britain"
+ ENG_conservative:0 "United Kingdom"
  ENG_conservative_DEF:0 "the United Kingdom of Great Britain"
- ENG_liberal:0 "United Kingdom of Great Britain"
+ ENG_liberal:0 "United Kingdom"
  ENG_liberal_DEF:0 "the United Kingdom of Great Britain"
  ENG_progressive:0 "British Republic"
  ENG_progressive_DEF:0 "the British Republic"
@@ -66,15 +66,15 @@
  ENG_leninist_DEF:0 "the Union of Britain"
  ENG_ADJ:0 "British"
 
- IRE:0 "Irish Republic"
- IRE_DEF:0 "the Irish Republic"
+ IRE:0 "Ireland"
+ IRE_DEF:0 "the Republic of Ireland"
  IRE_ADJ:0 "Irish"
 
- VEN:0 "United States of Venezuela"
+ VEN:0 "Venezuela"
  VEN_DEF:0 "the United States of Venezuela"
  VEN_ADJ:0 "Venezuelan"
 
- COL:0 "Republic of Colombia"
+ COL:0 "Colombia"
  COL_DEF:0 "the Republic of Colombia"
  COL_ADJ:0 "Colombian"
 
@@ -82,15 +82,15 @@
  ECU_DEF:0 "the Republic of Ecuador"
  ECU_ADJ:0 "Ecuadorian"
 
- BRA:0 "United States of Brazil"
+ BRA:0 "Brazil"
  BRA_DEF:0 "the Republic of the United States of Brazil"
  BRA_ADJ:0 "Brazilian"
 
- PRU:0 "Republic of Peru"
+ PRU:0 "Peru"
  PRU_DEF:0 "the Republic of Peru"
  PRU_ADJ:0 "Peruvian"
 
- BOL:0 "State of Bolivia"
+ BOL:0 "Bolivia"
  BOL_DEF:0 "the State of Bolivia"
  BOL_ADJ:0 "Bolivian"
 
@@ -106,24 +106,24 @@
  ARG_DEF:0 "the Union of La Plata"
  ARG_ADJ:0 "Argentinean"
 
- NOR:0 "Kingdom of Norway"
+ NOR:0 "Norway"
  NOR_DEF:0 "the Kingdom of Norway"
  NOR_ADJ:0 "Norwegian"
 
- SWE:0 "Kingdom of Sweden"
+ SWE:0 "Sweden"
  SWE_DEF:0 "the Kingdom of Sweden"
  SWE_ADJ:0 "Swedish"
 
- FIN:0 "Kingdom of Finland"
+ FIN:0 "Finland"
  FIN_DEF:0 "the Kingdom of Finland"
  FIN_ADJ:0 "Finnish"
 
- HOL:0 "Kingdom of the Netherlands"
+ HOL:0 "The Netherlands"
  HOL_DEF:0 "The Kingdom of the Netherlands"
  HOL_ADJ:0 "Dutch"
 
- BEL:0 "State of Belgium"
- BEL_DEF:0 "the State of Beglium"
+ BEL:0 "United Belgian States"
+ BEL_DEF:0 "the United Belgian States"
  BEL_ADJ:0 "Belgian"
 
  DPR:0 "Union of Denmark"
@@ -160,8 +160,8 @@
  SWI_DEF:0 "Switzerland"
  SWI_ADJ:0 "Swiss"
  
- ITA:0 "Italian Republic"
- ITA_DEF:0 "the Italian Republic"
+ ITA:0 "Republic of Italy"
+ ITA_DEF:0 "the Republic of Italy"
  ITA_ADJ:0 "Italian"
 
  SIC:0 "Two Sicilies"
@@ -184,16 +184,16 @@
  LAT_DEF:0 "the Republic of Latvia"
  LAT_ADJ:0 "Latvian"
 
- CRO:0 "Kingdom of Croatia"
- CRO_DEF:0 "the Kingdom of Croatia"
+ CRO:0 "Illyria"
+ CRO_DEF:0 "the Kingdom of Illyria"
  CRO_ADJ:0 "Croatian"
 
  MNT:0 "Montenegro"
  MNT_DEF:0 "Montenegro"
  MNT_ADJ:0 "Montenegrin"
 
- HUN:0 "Hungarian Socialist Republic"
- HUN_DEF:0 "the Hungarian Socialist Republic"
+ HUN:0 "Danubia"
+ HUN_DEF:0 "the Danubian Council Republic"
  HUN_ADJ:0 "Hungarian"
 
  ALB:0 "Albania"
@@ -208,27 +208,27 @@
  TRA_DEF:0 "the Republic of Banat"
  TRA_ADJ:0 "Banat"
 
- ROM:0 "Kingdom of Romania"
+ ROM:0 "Romania"
  ROM_DEF:0 "the Kingdom of Romania"
  ROM_ADJ:0 "Romanian"
 
- BUL:0 "Tsardom of Bulgaria"
+ BUL:0 "Bulgaria"
  BUL_DEF:0 "the Tsardom of Bulgaria"
  BUL_ADJ:0 "Bulgarian"
 
- LIT:0 "Kingdom of Lithuania"
+ LIT:0 "Lithuania"
  LIT_DEF:0 "the Kingdom of Lithuania"
  LIT_ADJ:0 "Lithuanian"
 
- POL:0 "Republic of Poland"
- POL_DEF:0 "the Republic of Poland"
+ POL:0 "Poland-Lithuania-Ruthenia"
+ POL_DEF:0 "the "Polish-Lithuanian-Ruthenian Commonwealth"
  POL_ADJ:0 "Polish"
 
- KON:0 "Königsberg"
- KON_DEF:0 "Königsberg"
+ KON:0 "East Prussia"
+ KON_DEF:0 "the Duchy of East Prussia"
  KON_ADJ:0 "East Prussian"
 
- UKR:0 "Ukrainian People's Republic"
+ UKR:0 "Ukraine"
  UKR_DEF:0 "the Ukrainian People's Republic"
  UKR_ADJ:0 "Ukrainian"
 
@@ -236,11 +236,11 @@
  BLR_DEF:0 "the Belarusian Democratic Republic"
  BLR_ADJ:0 "Belarusian"
 
- MOR:0 "Kingdom of Morocco"
+ MOR:0 "Morocco"
  MOR_DEF:0 "the Kingdom of Morocco"
  MOR_ADJ:0 "Moroccan"
 
- GRE:0 "Hellenic Republic"
+ GRE:0 "Greece"
  GRE_DEF:0 "the Hellenic Republic"
  GRE_ADJ:0 "Greek"
 
@@ -302,8 +302,8 @@
  HES_DEF:0 "Hessen"
  HES_ADJ:0 "Hessian"
 
- RHI:0 "The Rhineland"
- RHI_DEF:0 "the Republic of the Rhineland"
+ RHI:0 "Rhine Confederation"
+ RHI_DEF:0 "the Confederation of the Rhine"
  RHI_ADJ:0 "Rhinish"
 
  OTO:0 "Ottoman Empire"
@@ -314,7 +314,7 @@
  DON_DEF:0 "the Don-Kuban Union"
  DON_ADJ:0 "Don-Kuban"
 
- GEO:0 "Republic of Georgia"
+ GEO:0 "Georgia"
  GEO_DEF:0 "the Democratic Republic of Georgia"
  GEO_ADJ:0 "Georgian"
 
@@ -322,7 +322,7 @@
  AZR_DEF:0 "the Azerbaijan People's Republic"
  AZR_ADJ:0 "Azerbaijani"
 
- PER:0 "Shadom of Persia"
+ PER:0 "Persia"
  PER_DEF:0 "the Shadom of Persia"
  PER_ADJ:0 "Persian"
 
@@ -346,13 +346,13 @@
  ROC_DEF:0 "the Republic of China"
  ROC_ADJ:0 "Nanking"
 
- SHX:0 "Shansi Clique"
- SHX_DEF:0 "Shansi Clique"
- SHX_ADJ:0 "Shansi"
+ SHX:0 "Shanxi Clique"
+ SHX_DEF:0 "Shanxi Clique"
+ SHX_ADJ:0 "Shanxi"
 
- SHA:0 "Shensi Clique"
- SHA_DEF:0 "Shensi Clique"
- SHA_ADJ:0 "Shensi"
+ SHA:0 "Shaanxi Clique"
+ SHA_DEF:0 "Shaanxi Clique"
+ SHA_ADJ:0 "Shaanxi"
 
  XSM:0 "Ma Clique"
  XSM_DEF:0 "the Ma Clique"
@@ -362,27 +362,24 @@
  SIK_DEF:0 "the Sinkiang Clique"
  SIK_ADJ:0 "Sinkiang"
 
- TIB:0 "Kingdom of Tibet"
+ TIB:0 "Tibet"
  TIB_DEF:0 "the Kingdom of Tibet"
  TIB_ADJ:0 "Tibetan"
 
- SCC:0 "Szechwan Clique"
- SCC_DEF:0 "the Szechwan Clique"
+ SCC:0 "Sichuan Clique"
+ SCC_DEF:0 "the Sichuan Clique"
  SCC_ADJ:0 "Szechwan"
 
- HSK:0 "Hsikang Clique"
- HSK_DEF:0 "the Hsikang Clique"
- HSK_ADJ:0 "Szechwan"
 
- GXC:0 "Kwangsi Clique"
- GXC_DEF:0 "the Kwangsi Clique"
+ GXC:0 "Liangguang Clique"
+ GXC_DEF:0 "the Liangguang Clique"
  GXC_ADJ:0 "Kwangsi"
 
  YUN:0 "Yunnan Clique"
  YUN_DEF:0 "Yunnan Clique"
  YUN_ADJ:0 "Yunnanese"
 
- AFG:0 "Emirate of Afghanistan"
+ AFG:0 "Afghanistan"
  AFG_DEF:0 "the Emirate of Afghanistan"
  AFG_ADJ:0 "Afghan"
 
@@ -390,12 +387,12 @@
  BHU_DEF:0 "Bhutan"
  BHU_ADJ:0 "Bhutanese"
 
- NEP:0 "Kingdom of Nepal"
+ NEP:0 "Nepal"
  NEP_DEF:0 "the Kingdom of Nepal"
  NEP_ADJ:0 "Nepali"
 
- IND:0 "Bharat Confederation"
- IND_DEF:0 "the Bharat Confederation"
+ IND:0 "Provisional Government of India"
+ IND_DEF:0 "the Provisional Government of India"
  IND_ADJ:0 "Indian"
 
  BUK:0 "Bukara"
@@ -406,7 +403,7 @@
  KHI_DEF:0 "the Khanate of Khiva"
  KHI_ADJ:0 "Khivan"
 
- KOK:0 "Khanate of Kokand"
+ KOK:0 "Kokand"
  KOK_DEF:0 "the Khanate of Kokand"
  KOK_ADJ:0 "Kokand"
 
@@ -446,8 +443,8 @@
  NZL_DEF:0 "New Zealand"
  NZL_ADJ:0 "New Zealand"
 
- JSM:0 "Jabal Shammar"
- JSM_DEF:0 "the Emirate of Jabal Shammar"
+ JSM:0 "Emirate of Rashidi"
+ JSM_DEF:0 "the Emirate of Rashidi"
  JSM_ADJ:0 "Jabal"
 
  YEM:0 "Yemen"
@@ -502,15 +499,15 @@
  INC_DEF:0 "the Indochinese Union"
  INC_ADJ:0 "Indochina"
 
- SIA:0 "Kingdom of Siam"
+ SIA:0 "Siam"
  SIA_DEF:0 "the Kingdom of Siam"
  SIA_ADJ:0 "Siamese"
 
- BRM:0 "Republic of Burma"
+ BRM:0 "Burma"
  BRM_DEF:0 "the Republic of Burma"
  BRM_ADJ:0 "Burmese"
 
- BAN:0 "State of Bengal"
+ BAN:0 "Bengal"
  BAN_DEF:0 "the State of Bengal"
  BAN_ADJ:0 "Bengali"
 

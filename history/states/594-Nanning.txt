@@ -11,8 +11,8 @@ state={
 	}
 
 	history={
-		owner = GXC
-		add_core_of = GXC
+		owner = ROC
+		add_core_of = ROC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

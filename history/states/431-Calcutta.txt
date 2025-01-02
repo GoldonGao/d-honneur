@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = BAN
-		add_core_of = BAN
+		owner = IND
+		add_core_of = IND
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
